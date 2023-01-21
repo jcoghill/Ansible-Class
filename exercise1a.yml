@@ -1,0 +1,6 @@
+---
+- router1
+- switch1
+- 10.1.1.1
+- 172.26.2.68
+- Hello Ansible

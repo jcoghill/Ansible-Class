@@ -1,0 +1,3 @@
+---
+{'Switch1': {'host': 'arista.mysite.local', 'username': 'admin', 'password': 'mypass', 'device_type': 'arista_eos', 'use_session_log': False}}
+
